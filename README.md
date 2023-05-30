@@ -9,7 +9,7 @@
 - 💻 I’m currently working on personal projects  
   
 
-- 📚 I’m currently learning Flutter and other cool stuff  
+- 📚 I’m currently learning new backend cool stuff  
   
 
 - ❓ Ask me about anything related to my skill set. Write to [dev@andreapepe.it](mailto:dev@andreapepe.it)  
