@@ -1,212 +1,146 @@
-👋 Hi, I'm Andrea Pepe
+# 👋 Andrea Pepe
 
-Software Engineering Manager · AI Architect · Founder @ Marea Software
-Naples, Italy 🇮🇹
+## 🚀 Software Engineering Manager · 🧠 AI Architect · 🏗 Founder
 
-I design and build scalable software systems, AI-powered platforms and microservice architectures for startups, enterprises and R&D initiatives.
+📍 Naples, Italy 🇮🇹
 
-My focus is on:
+I design and lead the development of **scalable software systems**, **AI-powered platforms**, and **enterprise-grade digital ecosystems**.
 
-🧠 Artificial Intelligence & LLM-powered systems
+My work sits at the intersection of **Artificial Intelligence**, **microservice architectures**, and **product strategy** — with a strong focus on building systems that are technically solid, economically sustainable, and ready for production.
 
-🏗 Enterprise-grade microservice architectures
+---
 
-⚙️ High-performance backend systems
+## 🧑‍💻 About Me
 
-🌍 Scalable SaaS platforms
+I am a Software Engineering Manager and technology founder specialized in:
 
-🤖 AI + IoT integrations
+* 🏛 Enterprise backend architectures
+* 🤖 AI integrations and automation systems
+* 🔄 Event-driven microservice ecosystems
+* ☁️ Cloud-ready DevOps infrastructures
+* 📊 Cost-aware system design
+* 💡 Innovation & product strategy
 
-🚀 Innovation & product strategy
+I lead multidisciplinary teams and oversee the full lifecycle:
 
-🧠 What I Do
+> Architecture → Development → Deployment → Scaling → Optimization
 
-I lead a development team building:
+I strongly believe that engineering is not just about writing code — it is about designing systems that scale both **technically and strategically**.
 
-AI-driven recruitment platforms
+---
 
-Intelligent SaaS ecosystems
+## 🧠 Core Expertise
 
-Event-driven microservice systems
+### 🤖 Artificial Intelligence & LLM Systems
 
-AI-powered education & robotics projects
+* LLM-powered recruitment & interview automation
+* Embedding pipelines & vector databases
+* AI-driven scoring and evaluation systems
+* Conversational multi-agent architectures
+* Cost-optimized AI infrastructure design
 
-Industry 5.0 IoT monitoring platforms
+### 🏗 Microservice Architectures
 
-B2B and B2C scalable digital products
+* Event-driven systems
+* Broker-based communication (NATS / RabbitMQ)
+* Domain-Driven Design (DDD)
+* Clean Architecture & SOLID principles
+* API Gateway & Backend-for-Frontend (BFF) patterns
+* Strong data ownership boundaries
+* Idempotent and resilient services
 
-I work across the full lifecycle:
+### 🌍 SaaS & Enterprise Platforms
 
-Product vision
+* Multi-tenant system design
+* Role-based access control (RBAC)
+* Subscription & payment integrations
+* Scalable backend infrastructures
+* Production-grade release workflows
 
-Technical architecture
+### 🏭 AI + IoT Systems
 
-System design
+* Sensor data ingestion platforms
+* Real-time anomaly detection backends
+* Industrial & structural monitoring systems
+* Hardware-integrated data pipelines
 
-Development standards
+---
 
-DevOps & deployment
+## 🛠 Technology Stack
 
-Cost modeling & scalability planning
+### ⚙️ Backend
 
-🏗 Architecture Mindset
+* Node.js (Moleculer, Express)
+* Laravel (Filament, Shield)
+* Python microservices
+* Prisma ORM
+* PostgreSQL / MySQL
+* pgvector
+* Redis
+* RabbitMQ / NATS
 
-I specialize in:
+### 🎨 Frontend
 
-Microservices (event-driven, broker-based)
+* Next.js
+* Angular (standalone architecture)
+* React
+* TailwindCSS
+* PrimeNG
 
-Domain-Driven Design
+### 🧠 AI & Data
 
-Clean Architecture & SOLID principles
+* OpenAI API integrations
+* Embedding & semantic search systems
+* Vector database architectures
+* Fine-tuning & model optimization workflows
 
-Multi-tenant systems
+### 🚀 DevOps & Infrastructure
 
-API Gateway & BFF patterns
+* Docker & Docker Compose
+* Monorepo & multi-repo strategies
+* CI/CD pipelines
+* Staging / Production separation
+* Release & versioning workflows
 
-AI embedding pipelines & vector databases
+---
 
-Scalable Docker-based environments
+## 📐 Engineering Philosophy
 
-I care deeply about:
+* 🧱 Design for scalability from day one
+* 🧭 Separate domains, not just code
+* 📡 Prefer events over tight coupling
+* 🔐 Protect data ownership boundaries
+* ♻️ Build idempotent and resilient services
+* 🤖 Automate everything that can be automated
+* 📚 Treat documentation as part of engineering
 
-Idempotency
+---
 
-Consistency across services
+## 🎯 Focus Areas
 
-Data ownership boundaries
+* 🤖 AI-driven recruitment platforms
+* 🧠 Multi-agent conversational ecosystems
+* 🏗 Enterprise microservice infrastructures
+* 🎓 AI-powered education systems
+* 🏭 Industry 5.0 IoT backends
+* 🌐 Cross-platform SaaS ecosystems
 
-Service isolation
+---
 
-Production-grade deployment strategies
+## 🤝 Collaboration
 
-🛠 Tech Stack
-Backend
+I am open to collaborating on:
 
-Node.js (Moleculer, Express)
+* 🚀 AI-first platforms
+* 🏢 Enterprise SaaS systems
+* 🌍 Distributed system design
+* 🔬 R&D and innovation initiatives
+* 💼 High-impact technology projects
 
-Laravel (Filament, Shield)
+---
 
-Python microservices
+## 📬 Let’s Connect
 
-Prisma ORM
+If you are building something ambitious and technically challenging, feel free to connect.
 
-PostgreSQL / MySQL
-
-pgvector
-
-Redis
-
-RabbitMQ / NATS
-
-Frontend
-
-Next.js
-
-Angular (standalone architecture)
-
-React
-
-TailwindCSS
-
-PrimeNG
-
-AI & Data
-
-OpenAI (LLM integrations)
-
-Embedding pipelines
-
-Vector databases
-
-Fine-tuning & distillation workflows
-
-AI-driven recruitment automation
-
-Voice AI integrations
-
-DevOps
-
-Docker / Docker Compose
-
-Monorepo architectures
-
-CI/CD pipelines
-
-Production / Staging separation
-
-Release management strategies
-
-🚀 Featured Focus Areas
-🤖 AI Recruitment Systems
-
-Designing AI-driven interview engines, CV analysis systems and autonomous evaluation pipelines.
-
-🧠 Multi-Agent Architectures
-
-Building conversational agent ecosystems capable of interacting with external systems and navigating frontend applications.
-
-🏭 AI + IoT
-
-Backend systems for industrial sensors, anomaly detection and real-time monitoring infrastructures.
-
-🎓 AI-Powered Education
-
-Interactive AI tutors, robotics training platforms and adaptive learning systems.
-
-📐 Engineering Philosophy
-
-Build for scalability from day one
-
-Separate domains, not just code
-
-Events > tight coupling
-
-Data ownership is sacred
-
-Automation beats manual processes
-
-Documentation is part of engineering
-
-📈 Current Interests
-
-Distributed AI systems
-
-Autonomous AI agents with financial capabilities
-
-Cross-platform SaaS ecosystems
-
-Vector search at scale
-
-Enterprise DevOps optimization
-
-Cost-aware AI infrastructure
-
-📬 Let's Connect
-
-If you're working on:
-
-AI-first platforms
-
-Enterprise SaaS
-
-Advanced microservice systems
-
-Innovation & R&D projects
-
-Funded tech initiatives
-
-Feel free to connect or collaborate.
-
-⚡ Beyond Code
-
-I’m passionate about:
-
-Product strategy
-
-Innovation funding programs
-
-Scalable business models
-
-Creative tech concepts
-
-Blending AI with real-world industries
+> Let’s design systems that scale — technically, strategically, and intelligently. ⚡
